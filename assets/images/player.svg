@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+    <!-- Armor body -->
+    <path d="M10 8 L22 8 L20 24 L12 24 Z" fill="#7f8c8d"/>
+    <!-- Helmet -->
+    <path d="M8 8 L24 8 L22 4 L10 4 Z" fill="#95a5a6"/>
+    <!-- Sword -->
+    <path d="M24 12 L28 8 L26 6 L22 10 Z" fill="#7f8c8d"/>
+    <!-- Shield -->
+    <path d="M6 12 L10 12 L8 20 L4 20 Z" fill="#e74c3c"/>
+</svg> 

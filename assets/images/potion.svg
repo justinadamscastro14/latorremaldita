@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+    <!-- Bottle -->
+    <path d="M12 4 L20 4 L24 12 L24 28 L8 28 L8 12 Z" fill="#2ecc71"/>
+    <!-- Liquid -->
+    <path d="M8 20 L24 20 L24 28 L8 28 Z" fill="#27ae60"/>
+    <!-- Cork -->
+    <rect x="12" y="2" width="8" height="2" fill="#95a5a6"/>
+</svg> 
